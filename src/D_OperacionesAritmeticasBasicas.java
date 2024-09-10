@@ -15,7 +15,7 @@
 
 import java.util.Scanner;
 
-public class OperacionesAritmeticasBasicas {
+public class D_OperacionesAritmeticasBasicas {
     public static void main(String[] args) {
         
         //1.

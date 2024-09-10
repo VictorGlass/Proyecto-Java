@@ -10,7 +10,7 @@
 
 //SOLUCION:
 
-public class Variables {
+public class B_Variables {
     public static void main(String[] args) {
         
         //Variables.

@@ -11,7 +11,7 @@
 
 //1.
 
-public class HolaMundo {
+public class A_HolaMundo {
     public static void main(String[] args) throws Exception {
 
         String texto = "¡Hola Mundo!";
