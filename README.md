@@ -1,18 +1,22 @@
-## Getting Started
+## Proyecto 100DaysOfCodes - Java ☕☕
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositorio contiene mi viaje diario a lo largo de llegar a los 100 días y continuar más aún.
+Cada día he abordado un nuevo concepto o proyecto, añadiendo información y comentarios en los códigos.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+## Estructura del repositorio
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+ - Dia 1: Hola Mundo.
+ - Dia 2: Variables y Tipos de Datos.
+ - Dia 3: Entrada y Salida.
+ - Dia 4: Operaciones Aritméticas Básicas.
+ - Dia 5: Operaciones de Asignación Compuesta.
+ - Dia 6: Conversión de Tipos.
+ - Dia 7: Operaciones Matemáticas.
+ - Dia 8: Declaraciones Condicionales (if-else).
+ - Dia 9: Estado de Cuenta de Switch.
+ - Dia 10: Bucles.
+ - Dia 11: Manipulación de Cuerdas.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+A lo largo del avance diario subiré los días siguientes, agregando mas información al respecto.
