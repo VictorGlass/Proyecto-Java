@@ -11,7 +11,7 @@
  * 
  */
 
-public class Dia_7_Operaciones_Matematicas {
+public class Dia_07_Operaciones_Matematicas {
     public static void main(String[] args) {
         
 

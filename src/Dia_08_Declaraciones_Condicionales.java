@@ -8,7 +8,7 @@
 
 import java.util.Scanner;
 
-public class Dia_8_Declaraciones_Condicionales {
+public class Dia_08_Declaraciones_Condicionales {
     public static void main(String[] args) {
         
 

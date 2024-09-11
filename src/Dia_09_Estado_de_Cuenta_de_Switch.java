@@ -6,7 +6,7 @@
  */
 
  import java.util.Scanner;
-public class Dia_9_Estado_de_Cuenta_de_Switch {
+public class Dia_09_Estado_de_Cuenta_de_Switch {
     public static void main(String[] args) {
         
         //Iniciar el objeto Scanner.
