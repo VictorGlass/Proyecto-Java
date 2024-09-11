@@ -11,7 +11,7 @@
 //SOLUCION:
 import java.util.Scanner;
 
-public class C_Entrada_Salida {
+public class Dia_3_Entrada_Salida {
     public static void main(String[] args) {
         
         //1.

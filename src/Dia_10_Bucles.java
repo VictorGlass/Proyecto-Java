@@ -11,7 +11,7 @@
 
 import java.util.Random;
 //import java.util.Scanner;
-public class J_Bucles {
+public class Dia_10_Bucles {
     public static void main(String[] args) {
         
         //1

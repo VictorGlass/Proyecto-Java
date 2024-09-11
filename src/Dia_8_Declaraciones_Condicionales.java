@@ -8,7 +8,7 @@
 
 import java.util.Scanner;
 
-public class H_Declaraciones_Condicionales_if_else {
+public class Dia_8_Declaraciones_Condicionales {
     public static void main(String[] args) {
         
 

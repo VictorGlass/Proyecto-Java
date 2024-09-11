@@ -10,7 +10,7 @@
 
 //SOLUCION:
 
-public class B_Variables {
+public class Dia_2_Variables_y_Tipos_datos {
     public static void main(String[] args) {
         
         //Variables.

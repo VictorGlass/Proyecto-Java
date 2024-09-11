@@ -12,7 +12,7 @@
 
 //SOLUCION:
 
-public class F_Conversion_De_Tipos {
+public class Dia_6_Conversion_de_Tipos {
     public static void main(String[] args) {
         
 

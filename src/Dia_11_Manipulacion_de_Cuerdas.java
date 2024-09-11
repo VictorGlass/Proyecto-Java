@@ -24,7 +24,7 @@
 
 import java.util.Scanner;
 
-public class K_Manipulacion_De_Cuerdas {
+public class Dia_11_Manipulacion_de_Cuerdas {
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
