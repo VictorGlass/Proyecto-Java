@@ -52,33 +52,33 @@ public class Dia_12_StringBuffer_y_StringBuilder {
     Es importante saber cuándo usar cada una de ellas para escribir código eficiente y claro. 
     Aquí te explico cuándo debes preferir StringBuffer o StringBuilder en lugar de String.
 
-    1. Inmutabilidad de String
-    String es inmutable, lo que significa que una vez que creas una instancia de una cadena de caracteres, no puedes modificar su contenido. 
-    Cualquier operación que parezca modificar la cadena (como concatenación) realmente crea un nuevo objeto String, 
-    lo que puede ser costoso en términos de memoria y rendimiento, especialmente si realizas muchas concatenaciones dentro de un bucle.
+    1. Inmutabilidad de String: String es inmutable, lo que significa que una vez que creas una instancia de una cadena de caracteres, no puedes modificar su contenido. 
+                                Cualquier operación que parezca modificar la cadena (como concatenación) realmente crea un nuevo objeto String, 
+                                lo que puede ser costoso en términos de memoria y rendimiento, especialmente si realizas muchas concatenaciones dentro de un bucle.
 
-    Cuándo usar String:
-    Usa String cuando no necesitas modificar el valor de la cadena. Ejemplos:
-    Almacenar una constante.
-    Realizar comparaciones simples.
-    Trabajar con cadenas pequeñas y un número limitado de operaciones de concatenación.
+
+    Cuándo usar String: Usa String cuando no necesitas modificar el valor de la cadena. Ejemplos:
+                        Almacenar una constante.
+                        Realizar comparaciones simples.
+                        Trabajar con cadenas pequeñas y un número limitado de operaciones de concatenación.
 
     2. Mutabilidad de StringBuffer y StringBuilder
+    
     Tanto StringBuffer como StringBuilder son mutables, lo que significa que puedes modificar el contenido de la cadena sin crear nuevos objetos. 
     Estas clases son ideales cuando necesitas realizar múltiples modificaciones o concatenaciones en una cadena.
 
-    Diferencia clave:
-    StringBuffer es sincronizado y thread-safe, lo que significa que varios hilos pueden acceder a él de forma segura, pero esto lo hace un poco más lento.
-    StringBuilder no es sincronizado, por lo que es más rápido, pero no es seguro en entornos multihilo.
-    Cuándo usar StringBuffer:
-    Usa StringBuffer cuando necesites modificar cadenas en un entorno de múltiples hilos y la seguridad de los hilos sea una prioridad.
-    Cuándo usar StringBuilder:
-    Usa StringBuilder en entornos de un solo hilo o cuando el acceso simultáneo no sea un problema. 
+    Diferencia clave: StringBuffer es sincronizado y thread-safe, lo que significa que varios hilos pueden acceder a él de forma segura, pero esto lo hace un poco más lento.
+                      StringBuilder no es sincronizado, por lo que es más rápido, pero no es seguro en entornos multihilo.
+
+    Cuándo usar StringBuffer: Usa StringBuffer cuando necesites modificar cadenas en un entorno de múltiples hilos y la seguridad de los hilos sea una prioridad.
+
+    Cuándo usar StringBuilder:  Usa StringBuilder en entornos de un solo hilo o cuando el acceso simultáneo no sea un problema. 
+
     Es preferible para la mayoría de las situaciones donde se realizan muchas operaciones sobre cadenas.
 
-    3. Comparación de Rendimiento
-    String es muy eficiente para operaciones de lectura cuando las cadenas no se modifican, 
-    pero para operaciones frecuentes de concatenación o modificación de texto, el rendimiento puede verse afectado porque cada operación crea un nuevo objeto.
+    3. Comparación de Rendimiento: String es muy eficiente para operaciones de lectura cuando las cadenas no se modifican, 
+                                   pero para operaciones frecuentes de concatenación o modificación de texto, el rendimiento 
+                                   puede verse afectado porque cada operación crea un nuevo objeto.
 
     StringBuilder es más rápido que String y StringBuffer para concatenaciones múltiples debido a la ausencia de sincronización.
 
