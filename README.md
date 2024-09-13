@@ -17,6 +17,7 @@ Cada día he abordado un nuevo concepto o proyecto, añadiendo información y co
  - Dia 9: Estado de Cuenta de Switch.
  - Dia 10: Bucles.
  - Dia 11: Manipulación de Cuerdas.
+ - Dia 12: StringBuffer y StringBuilder.
 
 
 A lo largo del avance diario subiré los días siguientes, agregando mas información al respecto.
