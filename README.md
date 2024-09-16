@@ -19,6 +19,7 @@ Cada día he abordado un nuevo concepto o proyecto, añadiendo información y co
  - Dia 11: Manipulación de Cuerdas.
  - Dia 12: StringBuffer y StringBuilder.
  - Dia 13: Matrices.
+ - Dia 14: Matrices 2D.
 
 
 A lo largo del avance diario subiré los días siguientes, agregando mas información al respecto.
