@@ -1,10 +1,18 @@
-## Proyecto 100DaysOfCodes - Java ☕☕
+<h1 align="center">
+ Proyecto 100DaysOfCodes - Java ☕☕
+</h1>
+ 
+<p align="center">
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGh5anJrb2t4djFubTVqamVrZWZzNHJwY2huZHdmZHdqZDliMW9tdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YFFEDnNTNzL2c8zeuK/giphy.webp" style="height: 200px"/>
+</p>
+
 
 Este repositorio contiene mi viaje diario a lo largo de llegar a los 100 días y continuar más aún.
 Cada día he abordado un nuevo concepto o proyecto, añadiendo información y comentarios en los códigos.
 
-
-## Estructura del repositorio
+<h1>
+ Estructura del repositorio
+</h1>
 
  - Dia 1: Hola Mundo.
  - Dia 2: Variables y Tipos de Datos.
