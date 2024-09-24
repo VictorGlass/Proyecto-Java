@@ -21,20 +21,21 @@ Mi objetivo es mejorar de manera continua mis habilidades de programación y pro
 ## Progreso Diario:
 
  - **Dia 1: Hola Mundo** - Primer contacto con Java.
- - **Dia 2: Variables y Tipos de Datos** - Declaración y uso de las variables.
- - **Dia 3: Entrada y Salida**.
- - **Dia 4: Operaciones Aritméticas Básicas**.
- - **Dia 5: Operaciones de Asignación Compuesta**.
- - **Dia 6: Conversión de Tipos**.
- - **Dia 7: Operaciones Matemáticas**.
+ - **Dia 2: Variables y Tipos de Datos** - Declaración y manejo de variables.
+ - **Dia 3: Entrada y Salida** - Manejo de inputs y outputs
+ - **Dia 4: Operaciones Aritméticas Básicas** - Suma, resta, multiplicación
+ - **Dia 5: Operaciones de Asignación Compuesta**
+ - **Dia 6: Conversión de Tipos** - Casting de variables
+ - **Dia 7: Operaciones Matemáticas** - Uso de la clase **Math**
  - **Dia 8: Declaraciones Condicionales (if-else)**.
- - **Dia 9: Estado de Cuenta de Switch**.
- - **Dia 10: Bucles**.
- - **Dia 11: Manipulación de Cuerdas**.
- - **Dia 12: StringBuffer y StringBuilder**.
- - **Dia 13: Matrices**.
- - **Dia 14: Matrices 2D**.
- - **Dia 15: Array List**.
+ - **Dia 9: Estado de Cuenta de Switch**
+ - **Dia 10: Bucles** - for, while y do-while
+ - **Dia 11: Manipulación de Cadenas** - Métodos de String
+ - **Dia 12: StringBuffer y StringBuilder** - Eficiencia en manejo de cadenas
+ - **Dia 13: Array / Matrices** - Declaración y manipulación de matríces
+ - **Dia 14: Array / Matrices 2D** - Matrices bidimensionales
+ - **Dia 15: Array List** - Manipulación dinámica de listas
+ - **Dia 16: Enumeraciones** - (enum)
 
 ## Próximos Días
 
