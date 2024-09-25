@@ -36,6 +36,7 @@ Mi objetivo es mejorar de manera continua mis habilidades de programación y pro
  - **Dia 14: Array / Matrices 2D** - Matrices bidimensionales
  - **Dia 15: Array List** - Manipulación dinámica de listas
  - **Dia 16: Enumeraciones** - (enum)
+ - **Dia 17: Fechas**
 
 ## Próximos Días
 
