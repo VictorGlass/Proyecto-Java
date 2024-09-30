@@ -37,6 +37,7 @@ Mi objetivo es mejorar de manera continua mis habilidades de programación y pro
  - **Dia 15: Array List** - Manipulación dinámica de listas
  - **Dia 16: Enumeraciones** - (enum)
  - **Dia 17: Fechas**
+ - **Dia 18: Funciones**
 
 ## Próximos Días
 
