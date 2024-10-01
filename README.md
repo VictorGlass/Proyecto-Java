@@ -38,6 +38,7 @@ Mi objetivo es mejorar de manera continua mis habilidades de programación y pro
  - **Dia 16: Enumeraciones** - (enum)
  - **Dia 17: Fechas**
  - **Dia 18: Funciones**
+ - **Dia 19: Generación de Números Aleatorios**
 
 ## Próximos Días
 
