@@ -39,6 +39,7 @@ Mi objetivo es mejorar de manera continua mis habilidades de programación y pro
  - **Dia 17: Fechas**
  - **Dia 18: Funciones**
  - **Dia 19: Generación de Números Aleatorios**
+ - **Dia 20 - Set/HashSet**
 
 ## Próximos Días
 
